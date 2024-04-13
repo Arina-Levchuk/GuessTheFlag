@@ -1,2 +1,2 @@
 # GuessTheFlag
-Swift UI test app
+"Guess the Flag" game app in SwiftUI
